@@ -1,0 +1,25 @@
+body {
+  background-color: #fff8dc;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #5a3e1b;
+}
+
+h2 {
+  font-style: italic;
+  color: #7a4f2a;
+}
+
+img {
+  height: 250px;
+  border-radius: 8px;
+}
+
+ul {
+  margin-left: 20px;
+  line-height: 1.6;
+}
